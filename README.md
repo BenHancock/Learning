@@ -1,2 +1,2 @@
 # Learning
-I'm learning to code and us GitHub
+I'm learning to code and use GitHub
